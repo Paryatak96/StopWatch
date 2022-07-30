@@ -1,0 +1,6 @@
+C:\Users\Sebastian\Source\Repos\Zadania z kursu dla Średniozaawansowanych C#\Zadanie 1 - Stoper\Zadanie 1 - Stoper\bin\Debug\Zadanie 1 - Stoper.exe.config
+C:\Users\Sebastian\Source\Repos\Zadania z kursu dla Średniozaawansowanych C#\Zadanie 1 - Stoper\Zadanie 1 - Stoper\bin\Debug\Zadanie 1 - Stoper.exe
+C:\Users\Sebastian\Source\Repos\Zadania z kursu dla Średniozaawansowanych C#\Zadanie 1 - Stoper\Zadanie 1 - Stoper\bin\Debug\Zadanie 1 - Stoper.pdb
+C:\Users\Sebastian\Source\Repos\Zadania z kursu dla Średniozaawansowanych C#\Zadanie 1 - Stoper\Zadanie 1 - Stoper\obj\Debug\Zadanie 1 - Stoper.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Source\Repos\Zadania z kursu dla Średniozaawansowanych C#\Zadanie 1 - Stoper\Zadanie 1 - Stoper\obj\Debug\Zadanie 1 - Stoper.exe
+C:\Users\Sebastian\Source\Repos\Zadania z kursu dla Średniozaawansowanych C#\Zadanie 1 - Stoper\Zadanie 1 - Stoper\obj\Debug\Zadanie 1 - Stoper.pdb
